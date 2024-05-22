@@ -1,0 +1,178 @@
+{
+  "commit": "bb6417563a28e83cf4e7e84f8101cfbe13174855",
+  "generated": "Sun, 12 May 2024 22:16:01 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "dc702b9812d5e3514a625e8b216b8c54e3117efd",
+        "hash": "3528214033",
+        "path": "outstatic/content/profiles/descargar-cv.md"
+      },
+      "author": {
+        "name": "Franco Carrara",
+        "picture": "https://avatars.githubusercontent.com/u/6468230?v=4"
+      },
+      "collection": "profiles",
+      "coverImage": "",
+      "description": "",
+      "lang": [
+        {
+          "label": "es",
+          "value": "es"
+        }
+      ],
+      "network": "cv",
+      "publishedAt": "2024-05-09T21:11:36.252Z",
+      "slug": "descargar-cv",
+      "status": "published",
+      "title": "Descargar CV",
+      "url": "./cv/Franco Carrara - Desarrollador Frontend [Febrero 2024].pdf"
+    },
+    {
+      "__outstatic": {
+        "commit": "bad3245b9158f135aa978c43a0fe5013a1ecf54f",
+        "hash": "2614311106",
+        "path": "outstatic/content/profiles/twitter.md"
+      },
+      "author": {
+        "name": "Franco Carrara",
+        "picture": "https://avatars.githubusercontent.com/u/6468230?v=4"
+      },
+      "collection": "profiles",
+      "coverImage": "",
+      "description": "",
+      "lang": [
+        {
+          "label": "es",
+          "value": "es"
+        },
+        {
+          "label": "en",
+          "value": "en"
+        }
+      ],
+      "network": "Twitter",
+      "publishedAt": "2024-05-09T21:06:57.340Z",
+      "slug": "twitter",
+      "status": "published",
+      "title": "francocdev",
+      "url": "https://twitter.com/francocdev"
+    },
+    {
+      "__outstatic": {
+        "commit": "ad20f47819cc29ac20b70e9deeac6174db62b4db",
+        "hash": "2054560788",
+        "path": "outstatic/content/profiles/me-francoc-ar.md"
+      },
+      "author": {
+        "name": "Franco Carrara",
+        "picture": "https://avatars.githubusercontent.com/u/6468230?v=4"
+      },
+      "collection": "profiles",
+      "coverImage": "",
+      "description": "",
+      "lang": [
+        {
+          "label": "es",
+          "value": "es"
+        },
+        {
+          "label": "en",
+          "value": "en"
+        }
+      ],
+      "network": "Email",
+      "publishedAt": "2024-05-09T21:09:47.473Z",
+      "slug": "me-francoc-ar",
+      "status": "published",
+      "title": "me@francoc.ar",
+      "url": "mailto:me@francoc.ar"
+    },
+    {
+      "__outstatic": {
+        "commit": "8e63bcc7bc3da04db43f4b1e29a7361ac2b73040",
+        "hash": "633155792",
+        "path": "outstatic/content/profiles/francocdev.md"
+      },
+      "author": {
+        "name": "Franco Carrara",
+        "picture": "https://avatars.githubusercontent.com/u/6468230?v=4"
+      },
+      "collection": "profiles",
+      "coverImage": "",
+      "description": "",
+      "lang": [
+        {
+          "label": "es",
+          "value": "es"
+        },
+        {
+          "label": "en",
+          "value": "en"
+        }
+      ],
+      "network": "GitHub",
+      "publishedAt": "2024-05-09T21:08:32.894Z",
+      "slug": "francocdev",
+      "status": "published",
+      "title": "FrancocDev",
+      "url": "https://github.com/francocdev"
+    },
+    {
+      "__outstatic": {
+        "commit": "83108a4497f22d90568b7de6ed57e307347cd017",
+        "hash": "3347676829",
+        "path": "outstatic/content/profiles/francocarrara.md"
+      },
+      "author": {
+        "name": "Franco Carrara",
+        "picture": "https://avatars.githubusercontent.com/u/6468230?v=4"
+      },
+      "collection": "profiles",
+      "coverImage": "",
+      "description": "",
+      "lang": [
+        {
+          "label": "es",
+          "value": "es"
+        },
+        {
+          "label": "en",
+          "value": "en"
+        }
+      ],
+      "network": "LinkedIn",
+      "publishedAt": "2024-05-09T21:09:17.163Z",
+      "slug": "francocarrara",
+      "status": "published",
+      "title": "francocarrara",
+      "url": "https://www.linkedin.com/in/francocarrara/"
+    },
+    {
+      "__outstatic": {
+        "commit": "4d9fc907d39e28692bb74ae9e520c65e76448f05",
+        "hash": "1088900154",
+        "path": "outstatic/content/profiles/download-cv.md"
+      },
+      "author": {
+        "name": "Franco Carrara",
+        "picture": "https://avatars.githubusercontent.com/u/6468230?v=4"
+      },
+      "collection": "profiles",
+      "coverImage": "",
+      "description": "",
+      "lang": [
+        {
+          "label": "en",
+          "value": "en"
+        }
+      ],
+      "network": "cv",
+      "publishedAt": "2024-05-09T21:10:20.315Z",
+      "slug": "download-cv",
+      "status": "published",
+      "title": "Download CV",
+      "url": "./cv/Franco Carrara - Frontend developer [Feb 2024].pdf"
+    }
+  ]
+}

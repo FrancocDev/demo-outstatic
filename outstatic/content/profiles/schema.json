@@ -1,0 +1,37 @@
+{
+  "title": "profiles",
+  "type": "object",
+  "properties": {
+    "url": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "url"
+    },
+    "lang": {
+      "required": true,
+      "description": "",
+      "fieldType": "Tags",
+      "dataType": "array",
+      "title": "Lang",
+      "values": [
+        {
+          "value": "es",
+          "label": "es"
+        },
+        {
+          "value": "en",
+          "label": "en"
+        }
+      ]
+    },
+    "network": {
+      "required": true,
+      "description": "",
+      "fieldType": "String",
+      "dataType": "string",
+      "title": "Network"
+    }
+  }
+}
